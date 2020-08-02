@@ -8,7 +8,10 @@ A bot that (almost) talks like Don Quijote de la Mancha.
 
 ### How to use
 
-1. Install all the necesary libraries.
+1. Install all all the requirements.
+```
+pip install requirements.txt
+```
 
 2. Start the server with `./start.sh`
 
