@@ -4,7 +4,7 @@
 
 Icon made by [Free Pik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 
-A bot that (almost) talks like don quijote.
+A bot that (almost) talks like Don Quijote de la Mancha.
 
 ### How to use
 
