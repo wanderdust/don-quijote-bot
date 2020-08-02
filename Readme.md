@@ -1,5 +1,9 @@
 ## Bot Quijote de la Mancha 
 
+![Don quijote logo](./assets/don-quixote.png)
+
+Icon made by [Free Pik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
+
 A bot that (almost) talks like don quijote.
 
 ### How to use
